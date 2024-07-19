@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Chanda Grover"
-description              : &description "personal description"
+description              : &description "PhD Research Scholar"
 url                      : https://chandagrover.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chandagrover/chandagrover.github.io"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "chanda-grover-1a093639"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0001-6038-8092"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
