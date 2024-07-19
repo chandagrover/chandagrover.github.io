@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Ansong Ni (倪安松), a final-year Ph.D. student in the Computer Science Department at Yale University, and my advisors are Prof. Arman Cohan, and (the late) Prof. Dragomir Radev. Prior to Yale, I obtained my M.S. in CS degree from School of Computer Science at Carnegie Mellon University and B.Eng. from Nanjing University in China.
-
-Hi. I am a final year Ph.D. student in the [Computer Science Department](https://www.ashoka.edu.in/page/computer-science-10) at [Ashoka University](https://www.ashoka.edu.in/), and my advisors are [Professor Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) and the late [Dr. Ravi Kothari] (https://scholar.google.co.in/citations?user=u9oZXVkAAAAJ&hl=en). I closely work with co-supervision of [Dr. Indra Deep Mastan](http://indradeepmastan.com/contact/) in the area of Text-Guided Image Style Transfer in Computer Vision . I started my research career under the guidance of [Dr. Dinesh Garg](https://scholar.google.co.in/citations?user=YrU_ZDkAAAAJ&hl=en) I am broadly interested in learning universal representations in multimodal learning setting 
- that can help transform knowledge from one aspect to other with machine learning and deep learning methods.
+I am a final year PhD student in the [Computer Science Department](https://www.ashoka.edu.in/page/computer-science-10) at [Ashoka University](https://www.ashoka.edu.in/), and my advisors are [Professor Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) and the late [Dr. Ravi Kothari] (https://scholar.google.co.in/citations?user=u9oZXVkAAAAJ&hl=en). I closely work with co-supervision of [Dr. Indra Deep Mastan](http://indradeepmastan.com/contact/) in the area of Text-Guided Image Style Transfer in Computer Vision. I started my research career under the guidance of [Dr. Dinesh Garg](https://scholar.google.co.in/citations?user=YrU_ZDkAAAAJ&hl=en) I am broadly interested in learning universal representations in the multimodal learning setting 
+ that can help transform knowledge from one aspect to another with machine learning and deep learning methods.
 
 ### Research Interests: Multimodal Learning, Style Transfer, Generative Models, Transfer Learning.
 
