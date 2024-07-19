@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations"
+title: "Papers"
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -11,4 +11,9 @@ redirect_from:
 
 {% include base_path %}
 
-## ["ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations"](https://dl.acm.org/doi/abs/10.1145/3571600.3571653)
+## ["SimSAM: Simple Siamese Representations Based Semantic Affinity Matrix for Unsupervised Image Segmentation"](https://arxiv.org/pdf/2406.07986)
+
+## ["SEM-CS: Semantic Clipstyler for Text-Based Image Style Transfer, ICIP 2023"](https://ieeexplore.ieee.org/abstract/document/10223148)
+
+## ["ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations, ICVGIP 2022"](https://dl.acm.org/doi/abs/10.1145/3571600.3571653)
+
