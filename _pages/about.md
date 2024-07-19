@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Computer Science Department](https://www.ashoka.edu.in/page/computer-science-10) at [Ashoka University](https://www.ashoka.edu.in/), and my advisors are [Professor Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) and the late [Dr. Ravi Kothari] (https://scholar.google.co.in/citations?user=u9oZXVkAAAAJ&hl=en). I closely work with co-supervision of [Dr. Indra Deep Mastan](http://indradeepmastan.com/contact/) in the area of Text-Guided Style Transfer application. I started my research career under the guidance of [Dr. Dinesh Garg](https://scholar.google.co.in/citations?user=YrU_ZDkAAAAJ&hl=en) 
+I am a PhD student in the [Computer Science Department](https://www.ashoka.edu.in/page/computer-science-10) at [Ashoka University](https://www.ashoka.edu.in/), and my advisors are [Professor Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) and the late [Dr. Ravi Kothari](https://scholar.google.co.in/citations?user=u9oZXVkAAAAJ&hl=en). I closely work with co-supervision of [Dr. Indra Deep Mastan](http://indradeepmastan.com/contact/) in the area of Text-Guided Style Transfer application. I started my research career under the guidance of [Dr. Dinesh Garg](https://scholar.google.co.in/citations?user=YrU_ZDkAAAAJ&hl=en) 
 
 I am broadly interested in learning universal representations in the multimodal learning setting that can help transform knowledge from one aspect to another with machine learning and deep learning methods.
 
