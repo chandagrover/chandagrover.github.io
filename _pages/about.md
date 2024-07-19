@@ -12,7 +12,8 @@ I am a PhD student in the [Computer Science Department](https://www.ashoka.edu.i
 
 I am broadly interested in learning universal representations in the multimodal learning setting that can help transform knowledge from one aspect to another with machine learning and deep learning methods.
 
-### Research Interests: Multimodal Learning, Style Transfer, Generative Models, Transfer Learning.
+### Research Interests: 
+  Multimodal Learning, Style Transfer, Generative Models, Transfer Learning.
 
 ### Work Experience:   
    . Data Analyst at Tata Consultancy Services, Delhi [Sept, 2014 - July, 2017]
