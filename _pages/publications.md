@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations"
 permalink: /publications/2022-11-24-ContextCLIP-Paper1
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-## ["ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations"](https://drive.google.com/file/d/1iMxrjVp2EfqCN2c2F6aG8h8lKPRNZlMb/view?usp=share_link)
+## ["ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations"](https://dl.acm.org/doi/abs/10.1145/3571600.3571653)
 
 
 {% if author.googlescholar %}
