@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations"
-permalink: /publications/2022-11-24-ContextCLIP-Paper1
+permalink: /publications/
 author_profile: true
 redirect_from:
   - /publications
