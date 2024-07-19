@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Close"
-excerpt: "About"
+title: "About Me"
+excerpt: "chanda.grover_phd19@ashoka.edu.in"
 author_profile: true
 redirect_from: 
   - /about/
