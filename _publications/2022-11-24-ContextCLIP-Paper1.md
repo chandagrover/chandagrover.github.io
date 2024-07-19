@@ -1,17 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations"
 collection: publications
 permalink: /publications
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about connecting image and text modalities. In future, we aim to use this connecting space in the application of style transfer.'
 date: Oct 24, 2022
 venue: 'ICVGIP, 2022'
-paperurl: 'https://events.iitgn.ac.in/2022/icvgip/accepted_papers.html)'
-citation: 'Chanda Grover, Indra Deep Mastan. Debayan Gupta (2022). &quot;Paper Title Number 1.&quot; <i>ICVGIP, 2022</i>. 1(1). ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations.'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3571600.3571653'
+citation: 'Chanda Grover, Indra Deep Mastan. Debayan Gupta (2022). &quot; ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations.&quot; <i>ICVGIP, 2022</i>. 1(1). ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations.'
 ---
 
 
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about connecting image and text modalities. In future, we aim to use this connecting space in the application of style transfer.
 
-[Download paper here](https://drive.google.com/file/d/1iMxrjVp2EfqCN2c2F6aG8h8lKPRNZlMb/view?usp=share_link)
+[Download paper here](https://dl.acm.org/doi/abs/10.1145/3571600.3571653)
 
-Recommended citation: Chanda Grover, Indra Deep Mastan, Debayan Gupta (2022). "Paper Title Number 1." <i>ICVGIP, 2022</i>. 1(1) ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations.
+Recommended citation: Chanda Grover, Indra Deep Mastan, Debayan Gupta (2022). "ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations" <i>ICVGIP, 2022</i>. 1(1) ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations.
