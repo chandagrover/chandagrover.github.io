@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Computer Science Department](https://www.ashoka.edu.in/page/computer-science-10) at [Ashoka University](https://www.ashoka.edu.in/), and my advisor is [Dr. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) (Ashoka University) and co-advisor is [Dr. Indra Deep Mastan](http://indradeepmastan.com/contact/) (IIT BHU). My research problem is focused on Image Style Transfer under a multimodal setting. I am thankful to Professor Debayan and Indra Deep for providing me with their guidance, support, freedom and flexibility to pursue my research interests. 
+I am a PhD student in the [Computer Science Department](https://www.ashoka.edu.in/page/computer-science-10) at [Ashoka University](https://www.ashoka.edu.in/), and my advisor is [Dr. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) (Ashoka University) and co-advisor is [Dr. Indra Deep Mastan](http://indradeepmastan.com/contact/) (IIT BHU). My research problem is focused on Image Style Transfer under a multimodal setting. I am thankful to Professor Debayan and Indra Deep for providing me with their consistent guidance, support, freedom and flexibility to pursue my research interests. 
 
 I am broadly interested in learning universal representations in the multimodal learning setting that can help transform knowledge from one aspect to another with machine learning and deep learning methods.
 
