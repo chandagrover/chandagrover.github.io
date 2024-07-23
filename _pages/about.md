@@ -14,7 +14,7 @@ I am broadly interested in learning universal representations in the multimodal 
 
 I began my research career at [IITGn](https://www.iitgn.ac.in/) under the guidance of [Dr. Dinesh Garg](https://scholar.google.co.in/citations?user=YrU_ZDkAAAAJ&hl=en), who broadened my interests in Generative Models and Natural Language Processing. I then embarked on my PhD journey at Ashoka University, mentored by the remarkable (the late)  [Dr. Ravi Kothari](https://scholar.google.co.in/citations?user=u9oZXVkAAAAJ&hl=en).
 
-Dr. Ravi recognized and fostered my passion for research in multimodal learning, particularly in the vision and language domains, and brought me into the PhD program. During my first two years at Ashoka, he provided invaluable guidance, warmth, unwavering support, and inspiration, profoundly influencing both my academic and personal growth. Reflecting on those transformative years, I am filled with deep gratitude for Dr. Ravi. His impact goes beyond academics, touching the very core of my heart. I am profoundly grateful for his wisdom, kindness, and the lasting impression he left on my life and career.
+Dr. Ravi recognized and fostered my passion for research in multimodal learning, particularly in the vision and language domains, and brought me into the PhD program. During my first two years at Ashoka, he provided invaluable guidance, warmth, unwavering support, and inspiration, profoundly influencing my academic and personal growth. I am profoundly grateful for his wisdom, kindness, and the lasting impression he left on my life and career.
 
 ### Research Interests: 
   Multimodal Learning, Style Transfer, Generative Models, Transfer Learning.
