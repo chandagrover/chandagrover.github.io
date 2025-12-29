@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-## [CV](https://docs.google.com/document/d/1psgw_n_nqOO064ixfGYyh1qpn3pzerep2wqSEAiTVO0/edit)
+## [CV](https://docs.google.com/document/d/17FAuu4EdqrvddZKZUyB2EiMbED8hYQL4wRJhuTDZsvM/edit?tab=t.0)
 
 
   
