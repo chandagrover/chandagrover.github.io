@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in the [Computer Science Department](https://www.ashoka.edu.in/department/department-of-cs/) at [Ashoka University](https://www.ashoka.edu.in/), and my advisor is [Dr. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) (Ashoka University) and co-advisor is [Dr. Indra Deep Mastan](https://www.iitbhu.ac.in/dept/cse/people/indracse) (IIT BHU) working with Vision-Language Deep Generative Models. My research focuses on developing vision generative models controllable, enabling applications such as fine-grained image editing. 
 
-I am also interested in studying the rich representations learned within the latent spaces of large-scale generative models and leveraging them for downstream tasks. I am thankful to Professor Debayan and Dr. Indra Deep for providing me with their consistent guidance, support, freedom and flexibility to pursue my research interests. 
+I am also interested in studying the rich representations learned within the latent spaces of large-scale generative models and leveraging them for downstream tasks. My long-term research goal is to bridge the gap between possibility and practicality. 
 
 I began my research career at [IITGn](https://www.iitgn.ac.in/) under the guidance of [Dr. Dinesh Garg](https://scholar.google.co.in/citations?user=YrU_ZDkAAAAJ&hl=en), who broadened my interests in Deep Generative Models and Natural Language Processing. I then embarked on my PhD journey at Ashoka University, mentored by the remarkable (the late)  [Dr. Ravi Kothari](https://scholar.google.co.in/citations?user=u9oZXVkAAAAJ&hl=en).
 
