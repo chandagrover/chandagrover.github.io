@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Computer Science Department](https://www.ashoka.edu.in/department/department-of-cs/) at [Ashoka University](https://www.ashoka.edu.in/), and my advisor is [Dr. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) (Ashoka University) and co-advisor is [Dr. Indra Deep Mastan](https://www.iitbhu.ac.in/dept/cse/people/indracse) (IIT BHU) working with Vision-Language Deep Generative Models. My research focuses on developing vision generative models controllable, enabling applications such as fine-grained image editing. 
+I am a PhD student in the [Computer Science Department](https://www.ashoka.edu.in/department/department-of-cs/) at [Ashoka University](https://www.ashoka.edu.in/), and my advisor is [Dr. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) (Ashoka University) and co-advisor is [Dr. Indra Deep Mastan](https://www.iitbhu.ac.in/dept/cse/people/indracse) (IIT BHU) working with Vision-Language models for controllable image transformations. I worked on making image edits semantic-aware, so that object identity and spatial structure remain intact under style or text-guided changes
 
 I am also interested in studying the rich representations learned within the latent spaces of large-scale generative models and leveraging them for downstream tasks. My long-term research goal is to bridge the gap between possibility and practicality. 
 
