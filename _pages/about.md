@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Computer Science Department](https://www.ashoka.edu.in/department/department-of-cs/) at [Ashoka University](https://www.ashoka.edu.in/), and my advisor is [Dr. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) (Ashoka University) and co-advisor is [Dr. Indra Deep Mastan](https://www.iitbhu.ac.in/dept/cse/people/indracse) (IIT BHU). My research problem is focused on Image Style Transfer under a multimodal setting. I am thankful to Professor Debayan and Indra Deep for providing me with their consistent guidance, support, freedom and flexibility to pursue my research interests. 
+I am a PhD student in the [Computer Science Department](https://www.ashoka.edu.in/department/department-of-cs/) at [Ashoka University](https://www.ashoka.edu.in/), and my advisor is [Dr. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) (Ashoka University) and co-advisor is [Dr. Indra Deep Mastan](https://www.iitbhu.ac.in/dept/cse/people/indracse) (IIT BHU) working with Vision-Language Deep Generative Models. My research focuses on developing vision generative models controllable, enabling applications such as fine-grained image editing. I am also interested in studying the rich representations learned within the latent spaces of large-scale generative models and leveraging them for downstream tasks. I am thankful to Professor Debayan and Dr. Indra Deep for providing me with their consistent guidance, support, freedom and flexibility to pursue my research interests. 
 
-I am broadly interested in learning universal representations in the multimodal learning setting that can help transform knowledge from one aspect to another with machine learning and deep learning methods.
+I began my research career at [IITGn](https://www.iitgn.ac.in/) under the guidance of [Dr. Dinesh Garg](https://scholar.google.co.in/citations?user=YrU_ZDkAAAAJ&hl=en), who broadened my interests in Deep Generative Models and Natural Language Processing. I then embarked on my PhD journey at Ashoka University, mentored by the remarkable (the late)  [Dr. Ravi Kothari](https://scholar.google.co.in/citations?user=u9oZXVkAAAAJ&hl=en).
 
-I began my research career at [IITGn](https://www.iitgn.ac.in/) under the guidance of [Dr. Dinesh Garg](https://scholar.google.co.in/citations?user=YrU_ZDkAAAAJ&hl=en), who broadened my interests in Generative Models and Natural Language Processing. I then embarked on my PhD journey at Ashoka University, mentored by the remarkable (the late)  [Dr. Ravi Kothari](https://scholar.google.co.in/citations?user=u9oZXVkAAAAJ&hl=en).
+Dr. Ravi brought me into the PhD program and fostered my research interests in multimodal learning, particularly in the vision and language domains. I am deeply grateful for his wisdom, guidance, support, encouragement, and the lasting impact he has had on my life and career.
 
-Dr. Ravi brought me into the PhD program and fostered my passion for research in multimodal learning, particularly in the vision (image) and language (text) domains. During my first two years at Ashoka, he provided invaluable guidance, warmth, unwavering support, and inspiration, profoundly influencing my academic and personal growth. I am profoundly grateful for his wisdom, kindness, and the lasting impression he left on my life and career.
+
 
 ### Research Interests: 
-  Multimodal Learning, Style Transfer, Generative Models, Transfer Learning.
+  Robust Representations, Multimodal Learning,  Generative Models, Transfer Learning.
 
 ### Work Experience:   
    . Data Analyst at Tata Consultancy Services, Delhi [Sept, 2014 - July, 2017]
