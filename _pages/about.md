@@ -1,7 +1,7 @@
 ---
-permalink: /
+permalink: archive
 title: "About Me"
-excerpt: "chanda.grover_phd19@ashoka.edu.in"
+permalink: /publications/
 author_profile: true
 redirect_from: 
   - /about/
