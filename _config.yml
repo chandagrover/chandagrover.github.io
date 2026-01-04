@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Overview"
 title_separator          : "-"
 name                     : &name "Chanda Grover Kamra"
 description              : &description "PhD Research Scholar"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chanda Grover Kamra"
-  avatar           : "Chanda Passport.jpg"
+  avatar           : "chanda_2023.jpg"
   bio              : "Ph.D. student in Computer Science @ Ashoka University"
   location         : "Haryana, India"
   employer         :
@@ -203,6 +203,13 @@ defaults:
       share: true
       related: true
   # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _about
   - scope:
       path: ""
       type: pages
