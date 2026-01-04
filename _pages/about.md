@@ -23,12 +23,11 @@ Dr. Ravi brought me into the PhD program and fostered my research interests in m
 
 ### Work Experience:   
    . Data Analyst at Tata Consultancy Services, Delhi [Sept, 2014 - July, 2017]
+   . Research Fellow at Mphasis (Nov, 2020 - Dec 2023)
 
 ### Education:
-   . PGDIIT at Indian Institute of Technology Gandhinagar (July 2017 - Dec 2018).
-   
-   . M.Tech in Computer Science from Banasthali Vidyapith (Research Intern at C-DAC, Noida) [2012-2014].
-   
+   . PGDIIT at Indian Institute of Technology Gandhinagar (July 2017 - Dec 2018).   
+   . M.Tech in Computer Science from Banasthali Vidyapith (Research Intern at C-DAC, Noida) [2012-2014].   
    . B.Tech in Computer Science from Maharishi Dayanand University[2008-2012].
    
    
