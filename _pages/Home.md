@@ -1,22 +1,16 @@
 ---
 permalink: /
-title: "About Me"
+title: "Overview"
 excerpt: "chanda.grover_phd19@ashoka.edu.in"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /Home/
+  - /Home.html
 ---
 
-I am a PhD student in the [Computer Science Department](https://www.ashoka.edu.in/department/department-of-cs/) at [Ashoka University](https://www.ashoka.edu.in/), and my advisor is [Dr. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) (Ashoka University) and co-advisor is [Dr. Indra Deep Mastan](https://www.iitbhu.ac.in/dept/cse/people/indracse) (IIT BHU) working with Vision-Language models for controllable image transformations. I worked on making image edits semantic-aware, so that object identity and spatial structure remain intact under style or text-guided changes
+I am a PhD student in the [Computer Science Department](https://www.ashoka.edu.in/department/department-of-cs/) at [Ashoka University](https://www.ashoka.edu.in/). My advisor is [Dr. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) (Ashoka University) and co-advisor is [Dr. Indra Deep Mastan](https://www.iitbhu.ac.in/dept/cse/people/indracse) (IIT BHU) and working with Vision-Language models for controllable image transformations. I worked on making image edits semantic-aware, so that object identity and spatial structure remain intact under style or text-guided changes
 
 I am also interested in studying the rich representations learned within the latent spaces of large-scale generative models and leveraging them for downstream tasks. My long-term research goal is to bridge the gap between possibility and practicality. 
-
-I began my research career at [IITGn](https://www.iitgn.ac.in/) under the guidance of [Dr. Dinesh Garg](https://scholar.google.co.in/citations?user=YrU_ZDkAAAAJ&hl=en), who broadened my interests in Deep Generative Models and Natural Language Processing. I then embarked on my PhD journey at Ashoka University, mentored by the remarkable (the late)  [Dr. Ravi Kothari](https://scholar.google.co.in/citations?user=u9oZXVkAAAAJ&hl=en).
-
-Dr. Ravi brought me into the PhD program and fostered my research interests in multimodal learning, particularly in the vision and language domains. I am deeply grateful for his wisdom, guidance, support, encouragement, and the lasting impact he has had on my life and career.
-
-
 
 ### Research Interests: 
   Robust Representations, Multimodal Learning,  Generative Models, Transfer Learning.
@@ -31,9 +25,6 @@ Dr. Ravi brought me into the PhD program and fostered my research interests in m
    
    . B.Tech in Computer Science from Maharishi Dayanand University[2008-2012].
    
-   
-
-
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
