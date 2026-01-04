@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Computer Science Department](https://www.ashoka.edu.in/department/department-of-cs/) at [Ashoka University](https://www.ashoka.edu.in/). My advisor is [Dr. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) and co-advisor is [Dr. Indra Deep Mastan](https://www.iitbhu.ac.in/dept/cse/people/indracse). I am working with Vision-Language models for controllable image transformations, specifically on making image edits semantic-aware, so that object identity and spatial structure remain intact under style or text-guided changes.
+I am a **PhD student (submitted thesis)** in the [Computer Science Department](https://www.ashoka.edu.in/department/department-of-cs/) at [Ashoka University](https://www.ashoka.edu.in/). My advisor is [Dr. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) and co-advisor is [Dr. Indra Deep Mastan](https://www.iitbhu.ac.in/dept/cse/people/indracse). I am working with *Vision-Language models* for controllable image transformations, specifically on making image edits semantic-aware, so that object identity and spatial structure remain intact under style or text-guided changes.
 
-I am also interested in studying the rich representations learned within the latent spaces of large-scale generative models and leveraging them for downstream tasks. My long-term research goal is to bridge the gap between possibility and practicality. 
+I am also interested in learning *rich representations* learned within the latent spaces of large-scale generative models and leveraging them for downstream tasks. My long-term research goal is to bridge the gap between possibility and practicality. 
 
 I began my research career at [IITGn](https://www.iitgn.ac.in/) under the guidance of [Dr. Dinesh Garg](https://scholar.google.co.in/citations?user=YrU_ZDkAAAAJ&hl=en), who broadened my interests in Deep Generative Models and Natural Language Processing. I then embarked on my PhD journey at Ashoka University, mentored by the remarkable (the late)  [Dr. Ravi Kothari](https://scholar.google.co.in/citations?user=u9oZXVkAAAAJ&hl=en).
 
-Dr. Ravi brought me into the PhD program and fostered my research interests in multimodal learning, particularly in the vision and language domains. I am deeply grateful for his wisdom, guidance, support, encouragement, and the lasting impact he has had on my life and career.
+*Dr. Ravi* brought me into the PhD program and fostered my research interests in multimodal learning, particularly in the vision and language domains. I am deeply grateful for his wisdom, guidance, support, encouragement, and the lasting impact he has had on my life and career.
 
 
 
