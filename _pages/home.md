@@ -4,8 +4,8 @@ title: "Overview"
 excerpt: "chanda.grover_phd19@ashoka.edu.in"
 author_profile: true
 redirect_from: 
-  - /Home/
-  - /Home.html
+  - /home/
+  - /home.html
 ---
 
 I am a PhD student in the [Computer Science Department](https://www.ashoka.edu.in/department/department-of-cs/) at [Ashoka University](https://www.ashoka.edu.in/). My advisor is [Dr. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) (Ashoka University) and co-advisor is [Dr. Indra Deep Mastan](https://www.iitbhu.ac.in/dept/cse/people/indracse) (IIT BHU). I am working with Vision-Language models for controllable image transformations, specifically on making image edits semantic-aware, so that object identity and spatial structure remain intact under style or text-guided changes
