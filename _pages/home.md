@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Overview"
+title: "Chanda Grover"
 excerpt: "chanda.grover_phd19@ashoka.edu.in"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,16 @@ redirect_from:
   - /home.html
 ---
 
-I am a PhD student in the [Computer Science Department](https://www.ashoka.edu.in/department/department-of-cs/) at [Ashoka University](https://www.ashoka.edu.in/). My advisor is [Dr. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) (Ashoka University) and co-advisor is [Dr. Indra Deep Mastan](https://www.iitbhu.ac.in/dept/cse/people/indracse) (IIT BHU). I am working with Vision-Language models for controllable image transformations, specifically on making image edits semantic-aware, so that object identity and spatial structure remain intact under style or text-guided changes.
+PhD student (submitted thesis) in the [Computer Science Department](https://www.ashoka.edu.in/department/department-of-cs/) at [Ashoka University](https://www.ashoka.edu.in/). I am working with Vision-Language models for controllable image transformations, specifically on making image edits semantic-aware, so that object identity and spatial structure remain intact under style or text-guided changes. [Konw More](https://chandagrover.github.io/about/)
 
-I am also interested in studying the rich representations learned within the latent spaces of large-scale generative models and leveraging them for downstream tasks. My long-term research goal is to bridge the gap between possibility and practicality. 
+### News
+[ObjMST: Object-Focused Multimodal Style Transfer] (https://www.sciencedirect.com/science/article/abs/pii/S0167865525000820) got accepter for CVPR Workshop 2025 and Pattern Recognition Letters (PRL 2025).
 
 ### Research Interests: 
   Robust Representations, Multimodal Learning,  Generative Models, Transfer Learning.
 
 ### Work Experience:   
-   . Data Analyst at Tata Consultancy Services, Delhi [Sept, 2014 - July, 2017]
+   . System Engineer at Tata Consultancy Services, Delhi [Sept, 2014 - July, 2017]
 
 ### Education:
    . PGDIIT at Indian Institute of Technology Gandhinagar (July 2017 - Dec 2018).
