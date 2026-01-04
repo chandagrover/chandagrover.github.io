@@ -11,7 +11,7 @@ redirect_from:
 PhD student (submitted thesis) in the [Computer Science Department](https://www.ashoka.edu.in/department/department-of-cs/) at [Ashoka University](https://www.ashoka.edu.in/) under the supervision of [Dr. Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) (Ashoka University) and co-supervision of [Dr. Indra Deep Mastan](https://www.iitbhu.ac.in/dept/cse/people/indracse) (IIT BHU). I am working with Vision-Language models for controllable image transformations, specifically on making image edits semantic-aware, so that object identity and spatial structure remain intact under style or text-guided changes. [Know Me More](https://chandagrover.github.io/about/)
 
 ### News
-[ObjMST: Object-Focused Multimodal Style Transfer] (https://www.sciencedirect.com/science/article/abs/pii/S0167865525000820) got accepter for CVPR Workshop 2025 and Pattern Recognition Letters (PRL 2025).
+[ObjMST: Object-Focused Multimodal Style Transfer](https://www.sciencedirect.com/science/article/abs/pii/S0167865525000820) got accepted for CVPR Workshop 2025 (CVEU, AI for Creative Visual Content Generation Editing and Understanding) and Pattern Recognition Letters (PRL 2025).
 
 ### Research Interests: 
   Robust Representations, Multimodal Learning,  Generative Models, Transfer Learning.
